@@ -14,12 +14,11 @@ url:              http://uwaylu.github.io/
 baseurl:          /
 
 author:           Webb Lu
-name:            'Webb Lu'
+name:             'Webb Lu'
 url:              http://uwaylu.github.io/
 
 paginate:         5
 
 # Custom vars
-version:          0.1.0
-
+build:            {date: 2017.07}
 github:           uWayLu
