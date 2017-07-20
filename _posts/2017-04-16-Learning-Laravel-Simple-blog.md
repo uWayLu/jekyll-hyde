@@ -79,6 +79,7 @@ blade 模板系統中，
 
 <a name="laravel-restful-route"></a>  
 ## Laravel 提供了 Restful Resources Controller  
+
 | Verb      | URI                  | Action  | Route Name     |
 |:----------|:---------------------|:--------|:---------------|
 | GET       | /photos              | index   | photos.index   |

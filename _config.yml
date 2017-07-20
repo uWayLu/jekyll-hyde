@@ -1,7 +1,7 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 redcarpet:
-  extension:      ["fenced_code_blocks", "hard_wrap", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify", "no_intra_emphasis"]
+  extensions:      ["fenced_code_blocks", "hard_wrap", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify", "no_intra_emphasis"]
 highlighter:      pygments
 plugins:          ["jekyll-paginate", "jekyll-gist"]
 
@@ -17,7 +17,6 @@ baseurl:          /
 
 author:           Webb Lu
 name:             'Webb Lu'
-url:              http://uwaylu.github.io/
 
 paginate:         5
 
