@@ -1,5 +1,7 @@
 # Dependencies
 markdown:         redcarpet
+redcarpet:
+  extension:      ["fenced_code_blocks", "hard_wrap", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify", "no_intra_emphasis"]
 highlighter:      pygments
 plugins:          ["jekyll-paginate", "jekyll-gist"]
 
