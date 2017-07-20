@@ -2,7 +2,7 @@
 markdown:         kramdown
 redcarpet:
   extensions:      ["fenced_code_blocks", "hard_wrap", "autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify", "no_intra_emphasis"]
-highlighter:      pygments
+highlighter:      rouge
 plugins:          ["jekyll-paginate", "jekyll-gist"]
 
 # Permalinks
@@ -11,15 +11,15 @@ permalink:        pretty
 # Setup
 title:            Webb's Tech Note
 tagline:          'Web developement notes'
-description:      'Hello, World!'
-url:              http://uwaylu.github.io/
+description:      'Learning notes of PHP, Javascript, and everything about coding.'
 baseurl:          /
 
 author:           Webb Lu
 name:             'Webb Lu'
+url:              http://uwaylu.github.io/
 
 paginate:         5
 
 # Custom vars
 build:            {date: 2017.07}
-github:           uWayLu
+github_username:  uWayLu
