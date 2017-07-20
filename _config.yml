@@ -12,7 +12,8 @@ permalink:        pretty
 title:            Webb's Tech Note
 tagline:          'Web developement notes'
 description:      'Learning notes of PHP, Javascript, and everything about coding.'
-baseurl:          /
+baseurl:          
+resources_url:    /public
 
 author:           Webb Lu
 name:             'Webb Lu'
