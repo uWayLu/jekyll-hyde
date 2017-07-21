@@ -1,6 +1,6 @@
 ---
 title: Laravel 學習筆記（一）：安裝與設置
-tags: ["web開發", "開發", "PHP", "Laravel"]
+tags: ["web開發", "開發", "PHP", "Laravel", "posted"]
 notebook: 15.Laravel
 layout: post
 ---

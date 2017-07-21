@@ -1,7 +1,7 @@
 ---
 title: HOST Laravel on byethost (abandoned)
 notebook: 15.Laravel
-tags: 開發, web開發, PHP, Laravel, posted
+tags: ["開發", "web開發", "PHP", "Laravel", "posted"]
 layout: post
 ---
 
