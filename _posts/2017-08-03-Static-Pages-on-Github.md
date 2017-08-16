@@ -69,3 +69,4 @@ layout: post
 2. [JEKYLL初探](http://shyhornet.github.io/2015/10/18/第一篇文章/)
 3. 分解 URI [Configuring Jekyll for User and Project GitHub Pages](http://downtothewire.io/2015/08/15/configuring-jekyll-for-user-and-project-github-pages/)
 4. [How to Install Ruby 2.4.0 on CentOS/RHEL with RVM](https://tecadmin.net/install-ruby-2-4-centos-rvm/)
+5. [GitHub Pages drops support for RDiscount, Redcarpet, and RedCloth (Textile) markup engines](https://github.com/blog/2151-github-pages-drops-support-for-rdiscount-redcarpet-and-redcloth-textile-markup-engines)
