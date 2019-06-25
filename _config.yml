@@ -17,7 +17,7 @@ resources_url:    /public
 
 author:           Webb Lu
 name:             'Webb Lu'
-url:              http://uwaylu.github.io/
+url:              https://uwaylu.github.io/jekyll-hyde
 
 paginate:         5
 
